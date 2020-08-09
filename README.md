@@ -12,7 +12,7 @@
 <details>
   <summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
   
-[![Yoonseok's github stats](https://github-readme-stats.vercel.app/api?username=yoonseok312&show_icons=true&include_all_commits=true)](https://github.com/yoonseok312/github-readme-stats)
+[![Yoonseok's github stats](https://github-readme-stats.vercel.app/api?username=yoonseok312&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/yoonseok312/github-readme-stats)
 
 
 <!--
