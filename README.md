@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonseok@berkeley.edu)](mailto:yoonseok@berkeley.edu) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008726798130)](https://www.facebook.com/profile.php?id=100008726798130) 
 
-- :office_worker: iOS Engineer @ Riiid :student: EECS @ UC Berkeley
+:office_worker: iOS Engineer @ Riiid :student: EECS @ UC Berkeley
 
 ---
 <details>
