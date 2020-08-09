@@ -5,12 +5,6 @@
 
 :office_worker: iOS Engineer @ Riiid :student: EECS @ UC Berkeley
 
----
-<details>
-  <summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
-  
-[![Yoonseok's github stats](https://github-readme-stats.vercel.app/api?username=yoonseok312&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/yoonseok312/github-readme-stats)
-
 
 <!--
 **yoonseok312/yoonseok312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
