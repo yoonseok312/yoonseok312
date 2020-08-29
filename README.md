@@ -5,7 +5,7 @@
 
 Currently working in a Korean AI startup Riiid as a full time iOS developer.
 
-Have founded a startup and failed, finished 1 year in UC Berkeley as EECS & MSE double major (taking a leave of absence), and currently striving to iterate and fail over more ideas. Feel free to reach out if you want to talk about startups, productivity, computer science, and sustainable energy grid. 
+Have founded a startup and failed, majoring EECS & MSE in UC Berkeley (currently taking a leave of absence), and striving to iterate and fail over more ideas. Feel free to reach out if you want to talk about startups, productivity, computer science, and sustainable energy grid. 
 
 <!--
 :office_worker: iOS Engineer @ Riiid :student: EECS @ UC Berkeley
