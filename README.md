@@ -7,9 +7,10 @@ Currently working in a Korean AI startup Riiid as a full time iOS developer.
 
 Have founded a startup and failed, majoring EECS & MSE in UC Berkeley (currently taking a leave of absence), and striving to iterate and fail over more ideas. Feel free to reach out if you want to talk about startups, productivity, computer science, and sustainable energy grid. 
 
+[![Yoonseok's github stats](https://github-readme-stats.vercel.app/api?username=yoonseok312&show_icons=true&count_private=true)](https://github.com/yoonseok312/github-readme-stats)
+
 <!--
 :office_worker: iOS Engineer @ Riiid :student: EECS @ UC Berkeley
-
 
 <!--
 **yoonseok312/yoonseok312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
