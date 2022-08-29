@@ -3,8 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonseok@berkeley.edu)](mailto:yoonseok@berkeley.edu) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008726798130)](https://www.facebook.com/profile.php?id=100008726798130) 
 
-Intern @ Google / EECS @ UC Berkeley. 
-Previously Research Scientist @ Riiid.
+Founder and creator at heart, with experience in mobile, front-end, back-end development, and AI research. Reach out to yoonseok@berkeley.edu - let's build a better world, together.
 
 [![Yoonseok's github stats](https://github-readme-stats.vercel.app/api?username=yoonseok312&show_icons=true&count_private=true)](https://github.com/yoonseok312/github-readme-stats)
 
