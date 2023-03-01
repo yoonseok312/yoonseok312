@@ -5,7 +5,7 @@
 
 Founder and creator at heart, with experience in mobile, front-end, back-end development, and AI research. Reach out to yoonseok@berkeley.edu - let's build a better world, together.
 
-[![Yoonseok's github stats](https://github-readme-stats.vercel.app/api?username=yoonseok312&show_icons=true&count_private=true)](https://github.com/yoonseok312/github-readme-stats)
+<!-- [![Yoonseok's github stats](https://github-readme-stats.vercel.app/api?username=yoonseok312&show_icons=true&count_private=true)](https://github.com/yoonseok312/github-readme-stats) -->
 
 <!--
 :office_worker: Intern @ Google :student: EECS @ UC Berkeley
